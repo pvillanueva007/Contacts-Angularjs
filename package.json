@@ -1,0 +1,16 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "description": "Angular.tutorial",
+  "main": "contacts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Villanueva",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.6",
+    "angular-route": "^1.7.6",
+    "express": "^4.16.4"
+  }
+}
